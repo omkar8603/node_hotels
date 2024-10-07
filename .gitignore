@@ -2,4 +2,8 @@
 
 node_modules/
 
-# Other entries
+# Ignore basic.js file
+basic.js
+
+greeting.txt
+notes.js
